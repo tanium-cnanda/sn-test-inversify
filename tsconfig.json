@@ -1,0 +1,49 @@
+{
+    "compilerOptions": {
+        //"lib": ["ES2018"],
+        "target":"ES6",
+        "moduleResolution":"Node",
+        "types": ["reflect-metadata"],
+        "outDir": "dist",
+        "rootDir": "src",
+        "allowJs": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "esModuleInterop": true,
+        "module": "ES6",
+        "alwaysStrict": true,
+        "checkJs": false,
+        "noEmit": false,
+        "isolatedModules": false,
+        "noEmitOnError": true,
+        "noErrorTruncation": true,
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitOverride": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noPropertyAccessFromIndexSignature": true,
+        "noUncheckedIndexedAccess": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "removeComments": true,
+        "skipLibCheck": false,
+        "sourceMap": true,
+        "strict": true,
+    },
+    "exclude": [
+        "dist",
+        "node_modules"
+    ],
+    "include": [
+        "src",
+        "./src/**/*"
+    ],
+    "tsc-alias": {
+        "verbose": false,
+        "resolveFullPaths": true,
+        "fileExtensions": {
+            "inputGlob": "{js,jsx,mjs}",
+            "outputCheck": ["js", "json", "jsx", "mjs"]
+        }
+    }
+}
