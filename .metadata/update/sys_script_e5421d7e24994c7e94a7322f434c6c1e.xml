@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<unload>
+  <sys_script action="INSERT_OR_UPDATE">
+    <action_delete>false</action_delete>
+    <action_insert>false</action_insert>
+    <action_update>true</action_update>
+    <active>true</active>
+    <collection>x_1439397_inver_to_do</collection>
+    <name>LogItemChange</name>
+    <order>100</order>
+    <script><![CDATA[	
+    const { showStatusUpdate } = require('./src/myfunction.js')
+	  showStatusUpdate(current.getValue('status'), previous.getValue('status'))
+]]></script>
+    <sys_id>e5421d7e24994c7e94a7322f434c6c1e</sys_id>
+    <sys_scope display_value="x_1439397_inver">a014653c83ef821036c659d0deaad39c</sys_scope>
+    <when>after</when>
+  </sys_script>
+</unload>

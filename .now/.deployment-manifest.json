@@ -1,0 +1,93 @@
+{
+  "files": [
+    {
+      "status": "DEPLOYED",
+      "current_hash": "6f3cbfd1c31a7746d16949b7a5b1aaab",
+      "path": "dictionary/x_1439397_inver_to_do.xml",
+      "deploy_hash": "6f3cbfd1c31a7746d16949b7a5b1aaab",
+      "modulePath": ""
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "affb0172c79ee71bdf95a9c93732d491",
+      "path": "sys_app_a014653c83ef821036c659d0deaad39c.xml",
+      "deploy_hash": "affb0172c79ee71bdf95a9c93732d491",
+      "modulePath": ""
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "00c6ec0efa56c6cb63cea356c1ca7b74",
+      "path": "update/sys_module_package_json.xml",
+      "deploy_hash": "00c6ec0efa56c6cb63cea356c1ca7b74",
+      "modulePath": "x_1439397_inver/test-inversify/0.0.1/package.json"
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "cbde7d19806627b98b542b601fab71fc",
+      "path": "update/sys_script_e5421d7e24994c7e94a7322f434c6c1e.xml",
+      "deploy_hash": "cbde7d19806627b98b542b601fab71fc",
+      "modulePath": ""
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "f8d4a395ba2ad8437d39bf9a4a2ff32e",
+      "path": "update/sys_module_dependency_inversify_6_0_2.xml",
+      "deploy_hash": "f8d4a395ba2ad8437d39bf9a4a2ff32e",
+      "modulePath": [
+        "x_1439397_inver/inversify/6.0.2/package.json",
+        "x_1439397_inver/inversify/6.0.2/inversify.js"
+      ]
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "44ffe8010e8ea2caff52582527715ac7",
+      "path": "update/sys_module_dist_entities_js.xml",
+      "deploy_hash": "44ffe8010e8ea2caff52582527715ac7",
+      "modulePath": "x_1439397_inver/test-inversify/0.0.1/dist/entities.js"
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "fc6d701b99b0fb678f32a84eea45a77b",
+      "path": "update/sys_module_dist_interfaces_js.xml",
+      "deploy_hash": "fc6d701b99b0fb678f32a84eea45a77b",
+      "modulePath": "x_1439397_inver/test-inversify/0.0.1/dist/interfaces.js"
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "4bf9c2de558a428b01bb0f38a872f671",
+      "path": "update/sys_module_dist_inversify_config_js.xml",
+      "deploy_hash": "4bf9c2de558a428b01bb0f38a872f671",
+      "modulePath": "x_1439397_inver/test-inversify/0.0.1/dist/inversify.config.js"
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "a0e56d8ad38c4cc94b54207d4b587aac",
+      "path": "update/sys_module_dist_myfunction_js.xml",
+      "deploy_hash": "a0e56d8ad38c4cc94b54207d4b587aac",
+      "modulePath": "x_1439397_inver/test-inversify/0.0.1/dist/myfunction.js"
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "e758cc123428744d119ae92da9ec1317",
+      "path": "update/sys_module_dist_runner_js.xml",
+      "deploy_hash": "e758cc123428744d119ae92da9ec1317",
+      "modulePath": "x_1439397_inver/test-inversify/0.0.1/dist/runner.js"
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "3f73668356fde6d8fd870791987e79a4",
+      "path": "update/sys_module_dist_types_js.xml",
+      "deploy_hash": "3f73668356fde6d8fd870791987e79a4",
+      "modulePath": "x_1439397_inver/test-inversify/0.0.1/dist/types.js"
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "9743c86c895fa691cadd850c5aa7d1ea",
+      "path": "update/sys_module_dist_reflect_js.xml",
+      "deploy_hash": "9743c86c895fa691cadd850c5aa7d1ea",
+      "modulePath": "x_1439397_inver/test-inversify/0.0.1/dist/Reflect.js"
+    }
+  ],
+  "packageJsonHash": "7fdd2a0601e46c05df115e61f9ce2093",
+  "register_scope": false
+}
